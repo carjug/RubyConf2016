@@ -115,7 +115,7 @@
 * Reminder of goals
 
 
-
+----------------------------------------------------
 # "Am I senior yet?", Growing your career by teaching your peers - Katlyn Parvin
 
 ### Teaching allows you to maximize your impact - aka become a Sr Engineer
