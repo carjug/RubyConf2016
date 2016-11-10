@@ -183,5 +183,34 @@
 > "True learning involves a permanent change in the way you see and act in the world. The accumulation of information isn't learning."
 - Benjamin Hardy
 
-# Improving coverage analysis - Grand Ballroom A
+----------------------------
+# Improving coverage analysis - Ryan Davis
+
+### Code coverage sounds like a really good and safe thing to have
+* false sense of security
+* says nothing about the quality of your tests
+
+* TDD to the rescue!
+    * red, green, refactor -- woooo
+
+### Flaws in ruby's Coverage
+* Numerator Errors
+    * False Positive
+        * coverage on something that is completely untested just because the line is hit
+    * False Negative
+* Denominator Errors
+    * Error of Omission
+        * all implementations need to be loaded and run or you're omitting dependencies and therefore they're not being tested
+
+### Fixes (hopefully)
+* minitest-coverage
+    * Get a Baseline
+    * Only record coverage for the class under CUT
+    * Caveat: Bias toward false negatives
+
+
+
+
+
+
 # Problem Solved! Using Logic Programming to Find Answers -  Jr Ballroom B
