@@ -180,5 +180,8 @@
 #### Talk to your manager about how you can learn more effectively
 * managers are just trying to help you become a better engineer
 
+> "True learning involves a permanent change in the way you see and act in the world. The accumulation of information isn't learning."
+- Benjamin Hardy
+
 # Improving coverage analysis - Grand Ballroom A
 # Problem Solved! Using Logic Programming to Find Answers -  Jr Ballroom B
