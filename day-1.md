@@ -58,7 +58,7 @@
 * Weekly meetup in-office, pick a 30 - 60 minute conference talk, and watch it over lunch
 
 #### Why these are a good idea:
-> > "All of the learning, none of the stress!" (doesn't feel like school)
+> "All of the learning, none of the stress!" (doesn't feel like school)
 
 * Why continuing education at work?
     * Notice all the gaps in your knowledge, before they become fatal flaws
