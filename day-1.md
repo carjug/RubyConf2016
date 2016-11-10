@@ -113,6 +113,8 @@
 * Reset the bar
 * Reminder of goals
 
+[Ruby Book Club](http://rubybookclub.com/)
+
 
 
 
