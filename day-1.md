@@ -1,5 +1,6 @@
 # Bootcamp grads have feelings too - Megan Tiu
 > "There's an overgeneralization afoot"
+
 > "What happens when we refuse to acknowledge alternative education paths?"
 
 * The pipeline problem -- takes all the blame off us those inside and puts all blame on those not yet in the industry
