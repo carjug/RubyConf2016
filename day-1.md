@@ -55,6 +55,7 @@
 # Continuing education at work - Katherine Wu
 ### Technical Book Club
 * 1 - 2 chapters of a technical book/week
+[Ruby Book Club](http://rubybookclub.com/)
 
 ### LunchConf
 * Weekly meetup in-office, pick a 30 - 60 minute conference talk, and watch it over lunch
@@ -112,9 +113,6 @@
 * Ask questions
 * Reset the bar
 * Reminder of goals
-
-[Ruby Book Club](http://rubybookclub.com/)
-
 
 
 
