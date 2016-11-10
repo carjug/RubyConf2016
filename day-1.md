@@ -1,6 +1,7 @@
 # Bootcamp grads have feelings too - Megan Tiu
-* "There's an overgeneralization afoot"
-* "What happens when we refuse to acknowledge alternative education paths?"
+> "There's an overgeneralization afoot"
+> "What happens when we refuse to acknowledge alternative education paths?"
+
 * The pipeline problem -- takes all the blame off us those inside and puts all blame on those not yet in the industry
     * On average, bootcamps are 1/4 of the cost of a CS degree
     * 20% of bootcampers are Latinx
