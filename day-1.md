@@ -116,6 +116,69 @@
 
 
 
-# "Am I senior yet?", Growing your career by teaching your peers - Jr Ballroom B
+# "Am I senior yet?", Growing your career by teaching your peers - Katlyn Parvin
+
+### Teaching allows you to maximize your impact - aka become a Sr Engineer
+* HINT: pair-programming creates many opportunities for teaching
+
+#### A good first step: just start asking questions
+* what does the error say?
+* what does it mean by that?
+* what has changed that would cause this error now?
+    * help narrow down the possible causes
+* how could we go about fixing this issue?
+
+#### Learn to tailor your response to your audience
+* Skill VS. Will Matrix
+    * The Tao of Coaching by Max Landsberg
+
+###### The Quadrants
+* High will/Low skill
+    * provide tools, training, and guidance
+    * remove obstacles
+    * reduce risk
+* Low will/Low skill
+    * provide clear explanations
+    * identify motives - explain your logic and decision making: answer the "whys"
+    * develop a shared vision of success
+* High will/High skill
+    * provide freedom
+    * communicate trust
+    * develop stretch goals
+    * broaden responsibilities
+* Low will/High skill
+    * Helping to excite
+    * point out challenges
+    * identify their interests
+    * align interest with their work
+
+#### Resist the urge to teach by doing
+* If you are doing most of the typing 9/10 times this person will not understand everything you did
+
+#### Keep an eye out for mimicry
+* This is a red flag
+    * it is time to sit down and start explaining
+
+#### Teaching is about communicating effectively
+> "Human interactions are plagued by packet loss"
+
+* how much is your audience receiving? 50%? 20%?
+    * try to measure by taking in visual cues and feedback about the person you're communicating with
+* how could I do better?
+
+#### Have realistic expectations
+* you can't expect them to absorb everything at once
+* maybe they are progessing in ways that you haven't noticed
+
+#### Teaching also benefits the teacher
+* teaching helps with
+    * building confidence
+    * solidifying your own knowledge
+    * practicing your ability to communicate effectively
+    * creating opportunities for feedback
+
+#### Talk to your manager about how you can learn more effectively
+* managers are just trying to help you become a better engineer
+
 # Improving coverage analysis - Grand Ballroom A
 # Problem Solved! Using Logic Programming to Find Answers -  Jr Ballroom B
