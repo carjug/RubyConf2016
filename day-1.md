@@ -3,7 +3,7 @@
 
 > "What happens when we refuse to acknowledge alternative education paths?"
 
-* The pipeline problem -- takes all the blame off us those inside and puts all blame on those not yet in the industry
+* The myth of the pipeline problem -- takes all the blame off us those inside and puts all blame on those not yet in the industry
     * On average, bootcamps are 1/4 of the cost of a CS degree
     * 20% of bootcampers are Latinx
     * Women are 36% of bootcampers (only 14.1% of CS students)
