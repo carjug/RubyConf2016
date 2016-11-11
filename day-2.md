@@ -25,6 +25,7 @@
 	* Am I in a position of power and can I use it wisely?
 	* Am I willing to have a conversation?
 	* Can I respond with empathy? (**Not** sympathy)
+
 > "If you can't offer radical candor; the second best thing you can do is be an asshole"
 
 
