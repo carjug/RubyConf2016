@@ -54,3 +54,30 @@
 	2 fetch instruction
 	3 decode
 	4 execute
+
+------------------------------
+
+# Ruby 3 Concurrency - Koichi Sasada
+### A proposal of new concurrency model for Ruby 3
+* Motivation
+	* Productivity
+		* Thread programming is very difficult
+		* Making correct concurrent programs easily
+	* Performance by Parallel execution
+		* Making parallel programs
+		* Threads can make concurrent programs but can't run them in parallel
+		* People want to utilize multi/many CPU cores
+
+* Guild: new concurrency abstraction from Ruby3
+	* Idea: DO NOT SHARE mutable objects between Guilds
+	* No data races, no race conditions
+	* _Kill Threads_
+
+* Why is thread programming difficult?
+	* Easy to introduce data or race conditions
+	* Difficult to debug because of nondeterministic behavior
+		* difficult to reporduce same problem
+	* Difficult to tune performance
+
+* Why does Guild solve this difficulty?
+
