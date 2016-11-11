@@ -18,6 +18,16 @@
 	* empathetic
 	* unassuming
 	* _there is one caveat about kindness in relation to feeback...kindness is a terrible reasonot to give important feedback._
+* Questions to ask yourself before going into a feedback session:
+	* How emotionally grounded am I?
+	* How emotionally grounded is s/he?
+	* Am I aware of my personal values, privileges, and biases?
+	* Am I in a position of power and can I use it wisely?
+	* Am I willing to have a conversation?
+	* Can I respond with empathy? (**Not** sympathy)
+> "If you can't offer radical candor; the second best thing you can do is be an asshole"
+
+
 
 ------------------------------
 # Implementing Virtual Machines in Ruby (and C) - Eleanor McHugh
