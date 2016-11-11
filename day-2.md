@@ -75,9 +75,31 @@
 
 * Why is thread programming difficult?
 	* Easy to introduce data or race conditions
+		* we need to synchronize all sharing mutable objects correctly
+			* easy to share objects, but difficult to recognize and track on big programs
+		* We need to understand all libraries' source code - or believe their documentation
 	* Difficult to debug because of nondeterministic behavior
-		* difficult to reporduce same problem
+		* difficult to reproduce same problem
 	* Difficult to tune performance
 
-* Why does Guild solve this difficulty?
+* Problem: easy to share mutable objects
+	* idea: do not share mutable objects without restriction
 
+* How does Guild solve this difficulty?
+	* Threads in different guilds can run in parallel
+	* Threads in the same guild can not run in parallel
+		* Because of GGL: Giant Guild Lock
+	* Mutable objecets have a membership
+		* mutable objects live in the same guild their entire life
+		* all mutable objects should belong to only one Guild exclusively
+			* because a guild is not a community
+		* Guilds can not touch the objects of other Guilds
+	* Inter-guild communication
+		* :( Introduces overhead
+			* "Move" technique can reduce this kind of overhead
+		* `channel = Guild::Channel` to communicate
+			* `channel.copy` and `channel.move`
+			* `channel.receive`
+	* Immutable objects can be shared with any quilds
+		* We only need to send references
+		* Numeric objects, symbols, true, false, nil are immutable
