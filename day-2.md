@@ -50,10 +50,10 @@
 * When you build a machine, you get to pick the level of abstraction that your machine works at
 
 * Series of instructions that we want to happen when programming a VM
-	1 despatch loops
-	2 fetch instruction
-	3 decode
-	4 execute
+	1. despatch loops
+	2. fetch instruction
+	3. decode
+	4. execute
 
 * _basically: you can do this in ruby and this talk was esoteric as hell_
 
