@@ -32,7 +32,7 @@
 	* If you've offered support or made agreements, have integrity- be your word and show up!
 
 #### Receiving Feedback
-> "Healthy string is self-focused: 'How can I improve?' Perfectionism is other-focused 'What will they think?'"
+> "Healthy striving is self-focused: 'How can I improve?' Perfectionism is other-focused 'What will they think?'"
 
 * Choose a growth over a fixed mindset
 * See it as opportunity to grow with help from others
