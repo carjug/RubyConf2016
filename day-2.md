@@ -55,6 +55,8 @@
 	3 decode
 	4 execute
 
+* _basically: you can do this in ruby and this talk was esoteric as hell_
+
 ------------------------------
 
 # Ruby 3 Concurrency - Koichi Sasada
@@ -103,3 +105,8 @@
 	* Immutable objects can be shared with any quilds
 		* We only need to send references
 		* Numeric objects, symbols, true, false, nil are immutable
+
+------------------------------------------------------------
+
+# The little server the could - Stella Cotton
+
