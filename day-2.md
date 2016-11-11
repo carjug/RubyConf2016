@@ -17,7 +17,7 @@
 	* timely
 	* empathetic
 	* unassuming
-	_there is one caveat about kindness in relation to feeback...kindness is a terrible reasonot to give important feedback._
+	* _there is one caveat about kindness in relation to feeback...kindness is a terrible reasonot to give important feedback._
 
 ------------------------------
 # Implementing Virtual Machines in Ruby (and C) - Eleanor McHugh
