@@ -207,10 +207,3 @@
     * Get a Baseline
     * Only record coverage for the class under CUT
     * Caveat: Bias toward false negatives
-
-
-
-
-
-
-# Problem Solved! Using Logic Programming to Find Answers -  Jr Ballroom B
