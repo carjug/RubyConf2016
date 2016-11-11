@@ -4,6 +4,8 @@
 * A culture in which people witness, support, even provoke one another to grow their capabilities and adapt challenges through practice
 
 #### Giving Feedback
+> "If you can't offer radical candor; the second best thing you can do is be an asshole"
+
 * Actionable Feedback
 	* is about something the recipient has the ability to change
 	* explains what the recipient is being asked to do differently
@@ -25,8 +27,19 @@
 	* Am I in a position of power and can I use it wisely?
 	* Am I willing to have a conversation?
 	* Can I respond with empathy? (**Not** sympathy)
+* Other tips
+	* Check in after the fact
+	* If you've offered support or made agreements, have integrity- be your word and show up!
 
-> "If you can't offer radical candor; the second best thing you can do is be an asshole"
+#### Receiving Feedback
+> "Healthy string is self-focused: 'How can I improve?' Perfectionism is other-focused 'What will they think?'"
+
+* Choose a growth over a fixed mindset
+* See it as opportunity to grow with help from others
+* Stop playing defense (passively or actively)
+* Be empathetic towards self and others
+* Take what works and leave the rest - all in gratitude
+
 
 
 
