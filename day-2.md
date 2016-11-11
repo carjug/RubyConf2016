@@ -1,7 +1,23 @@
 # Finding your edge through a culture of feedback - Paulette Luftig
+
 ### A Culture of Feedback is:
 * A culture in which people witness, support, even provoke one another to grow their capabilities and adapt challenges through practice
 
+#### Giving Feedback
+* Actionable Feedback
+	* is about something the recipient has the ability to change
+	* explains what the recipient is being asked to do differently
+* Specific Feedback
+	* focuses on impact - the action not the person
+	* states what happened that was done well or not well
+	* avoids absolutes like "always" and "never"
+* Kind Feedback
+	* discreet when appropriate
+	* positively intended
+	* timely
+	* empathetic
+	* unassuming
+	_there is one caveat about kindness in relation to feeback...kindness is a terrible reasonot to give important feedback._
 
 ------------------------------
 # Implementing Virtual Machines in Ruby (and C) - Eleanor McHugh
