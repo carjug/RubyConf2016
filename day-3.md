@@ -48,6 +48,7 @@
 * Structure and Support
     * Feedback and constructive criticism
 * Team Stability
+* Time to ramp up
 
 ### How to take action if your needs aren't being met
 * Find something new to work on
