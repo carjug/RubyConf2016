@@ -60,4 +60,8 @@
 * Sometimes, you need to take a step back to move forward
 * Get exposure to new technologies
 
+#### Remember
+* There is no perfect job
+* My perfect job is not your perfect job
+* Every job has its good parts
 
