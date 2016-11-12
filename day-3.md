@@ -48,9 +48,12 @@
 * Structure and Support
     * Feedback and constructive criticism
 * Team Stability
+* Low pressure
 * Time to ramp up
 
 ### How to take action if your needs aren't being met
+* Ask for help
+* Remember that you're there for a reason
 * Find something new to work on
 * Learn from your mistakes
 * Find yourself an impartial mentor (outside the company)
