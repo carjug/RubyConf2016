@@ -19,3 +19,24 @@
 		* again: no silos
 	* Postmortems
 		* Blameless == assume everyone had good intentions
+
+-------------------------------
+
+# Learning Fluency - Sara Simon
+> "Building software is half strategy and half improvisation"
+
+* The practiced skill is the daily dictation
+	* with time fluency works, with intention it works faster
+	* understanding doesn't build fluency; instead, fluency builds understanding.
+	* discipline before imagination
+
+* What's the algorithm for fluency?
+	* learning is hard
+	* learning is tedious
+	* innovation appears out of hindsight
+		* creativity and innovation both stem from an intense and intimate understanding of a system
+	* the disregard of rote memorization is a failure of imagination
+			* a refusal to trust our brains
+
+* Reference: How I Rewired My Brain to Become Fluent in Math - Barbara Oakley
+

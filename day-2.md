@@ -144,6 +144,3 @@
                 * trap these signals to write helpful messages to the user dev
             * `sigkill` cannot be trapped
 
-
-
-
